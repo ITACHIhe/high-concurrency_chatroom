@@ -1,4 +1,4 @@
-这两份代码是基于linux环境和Qt写的服务器和客户端的聊天室程序，使用了底层linux socket的API，linux的多路转换select写的和tinyxml库
+这两份代码是基于linux环境和Qt写的服务器和客户端的聊天室程序，使用了底层linux socket的API，linux的多路转换select写的。和tinyxml库
 基本实现了高并发的即时聊天，也写了除了聊天框之外的交互。
 学习该份代码需掌握tinyxml库，stl库，设计模式的单例模式等
 Qt版本为5.9.0，linux版本为乌班图18.04    
